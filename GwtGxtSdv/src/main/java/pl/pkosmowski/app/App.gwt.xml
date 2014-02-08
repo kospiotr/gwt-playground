@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='App'>
+    <inherits name='com.google.gwt.user.User' />
+    <inherits name='com.sencha.gxt.ui.GXT' />
+    <stylesheet src="reset.css"/>
+    
+    <entry-point class='pl.pkosmowski.app.client.App' />
+    <source path='client' />
+
+</module>
