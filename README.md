@@ -3,8 +3,7 @@ gwt-playground
 
 Basic usage
 -----------------------
-1. gwt-clean-app-archetype
-A clean archetype for GWT project
+1. **gwt-clean-app-archetype** A clean archetype for GWT project
    ```xml
    mvn archetype:generate
    -DgroupId=pl.pkosmowski
@@ -12,8 +11,7 @@ A clean archetype for GWT project
    -Dversion=1.0-SNAPSHOT
    ```
 
-2. gwt-clean-sdv-app-archetype
-A clean archetype for GWT project with configured Super Dev Mode
+2. **gwt-clean-sdv-app-archetype** A clean archetype for GWT project with configured Super Dev Mode
    ```xml
    mvn archetype:generate
    -DgroupId=pl.pkosmowski
@@ -21,8 +19,7 @@ A clean archetype for GWT project with configured Super Dev Mode
    -Dversion=1.0-SNAPSHOT
    ```
 
-3. gwt-gxt-sdv-app-archetype
-A clean archetype for GWT project with configured Super Dev Mode and GXT library
+3. **gwt-gxt-sdv-app-archetype** A clean archetype for GWT project with configured Super Dev Mode and GXT library
    ```xml
    mvn archetype:generate
    -DgroupId=pl.pkosmowski
