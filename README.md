@@ -1,5 +1,6 @@
 gwt-playground
 ==============
+[![Build Status](https://buildhive.cloudbees.com/job/kospiotr/job/gwt-playground/badge/icon)](https://buildhive.cloudbees.com/job/kospiotr/job/gwt-playground/)
 
 Basic usage
 -----------------------
