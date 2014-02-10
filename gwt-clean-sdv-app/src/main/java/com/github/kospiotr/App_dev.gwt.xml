@@ -13,6 +13,6 @@
     <set-configuration-property name="devModeRedirectEnabled" value="true"/>
     <set-property name="compiler.useSourceMaps" value="true" />
 
-    <inherits name='pl.pkosmowski.app.App' />
+    <inherits name='com.github.kospiotr.app.App' />
 
 </module>

@@ -6,7 +6,7 @@ Basic usage
 1. **gwt-clean-app-archetype** A clean archetype for GWT project
    ```xml
    mvn archetype:generate
-   -DgroupId=pl.pkosmowski
+   -DgroupId=com.github.kospiotr
    -DartifactId=gwt-clean-app-archetype
    -Dversion=1.0-SNAPSHOT
    ```
@@ -14,7 +14,7 @@ Basic usage
 2. **gwt-clean-sdv-app-archetype** A clean archetype for GWT project with configured Super Dev Mode
    ```xml
    mvn archetype:generate
-   -DgroupId=pl.pkosmowski
+   -DgroupId=com.github.kospiotr
    -DartifactId=gwt-clean-sdv-app-archetype
    -Dversion=1.0-SNAPSHOT
    ```
@@ -22,7 +22,7 @@ Basic usage
 3. **gwt-gxt-sdv-app-archetype** A clean archetype for GWT project with configured Super Dev Mode and GXT library
    ```xml
    mvn archetype:generate
-   -DgroupId=pl.pkosmowski
+   -DgroupId=com.github.kospiotr
    -DartifactId=gwt-gxt-sdv-app-archetype
    -Dversion=1.0-SNAPSHOT
    ```

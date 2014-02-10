@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module rename-to='App'>
     <inherits name='com.google.gwt.user.User' />
-    <entry-point class='pl.pkosmowski.app.client.App' />
+    <entry-point class='com.github.kospiotr.app.client.App' />
     <source path='client' />
 
 </module>

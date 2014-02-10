@@ -1,4 +1,4 @@
-package pl.pkosmowski.app.client;
+package com.github.kospiotr.app.client;
 
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.user.client.ui.RootPanel;
