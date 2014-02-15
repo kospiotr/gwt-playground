@@ -48,11 +48,11 @@
     </prerequisites>
 
     <modules>
-        <module>gwt-clean-app</module>
+        <!--<module>gwt-clean-app</module>-->
         <module>gwt-clean-app-archetype</module>
-        <module>gwt-clean-sdv-app</module>
+        <!--<module>gwt-clean-sdv-app</module>-->
         <module>gwt-clean-sdv-app-archetype</module>
-        <module>gwt-gxt-sdv-app</module>
+        <!--<module>gwt-gxt-sdv-app</module>-->
         <module>gwt-gxt-sdv-app-archetype</module>
     </modules>
 
