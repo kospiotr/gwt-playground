@@ -6,11 +6,21 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.kospiotr</groupId>
     <artifactId>gwt-clean-app</artifactId>
     <version>1.0-SNAPSHOT</version>
-
     <packaging>war</packaging>
+    
+    <parent>
+        <groupId>com.github.kospiotr</groupId>
+        <artifactId>gwt-playground</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <scm>
+        <connection>scm:git:git://github.com/kospiotr/gwt-playground.git</connection>
+        <developerConnection>scm:git:git@github.com:kospiotr/gwt-playground.git</developerConnection>
+        <url>https://github.com/kospiotr/gwt-playground</url>
+    </scm>
 
     <properties>
         <gwt.version>2.5.1</gwt.version>
