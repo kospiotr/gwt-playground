@@ -60,7 +60,8 @@
         <connection>scm:git:git@github.com:kospiotr/gwt-playground.git</connection>
         <developerConnection>scm:git:git@github.com:kospiotr/gwt-playground.git</developerConnection>
         <url>scm:git:git@github.com:kospiotr/gwt-playground.git</url>
-    </scm>
+      <tag>gwt-playground-1.0</tag>
+  </scm>
     <issueManagement>
         <system>GitHub</system>
         <url>https://github.com/kospiotr/gwt-playground/issues</url>

@@ -32,6 +32,6 @@
     </build>
 
   <scm>
-    <tag>gwt-clean-app-archetype-1.0</tag>
+    <tag>gwt-playground-1.0</tag>
   </scm>
 </project>
