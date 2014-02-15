@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-release:prepare</actionName>
+            <displayName>release:prepare</displayName>
+            <recursive>false</recursive>
+            <goals>
+                <goal>release:prepare</goal>
+            </goals>
+        </action>
+    </actions>
