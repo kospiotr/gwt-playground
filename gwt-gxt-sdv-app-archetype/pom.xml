@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>gwt-gxt-clean-sdv-app-archetype</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
   
     <parent>
         <groupId>com.github.kospiotr</groupId>
         <artifactId>gwt-playground</artifactId>
-        <version>1.1</version>
+        <version>1.2-SNAPSHOT</version>
     </parent>
 
     <build>

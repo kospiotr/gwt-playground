@@ -25,7 +25,7 @@
 
     <groupId>com.github.kospiotr</groupId>
     <artifactId>gwt-playground</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <inceptionYear>2014</inceptionYear>
@@ -60,7 +60,7 @@
         <connection>scm:git:git@github.com:kospiotr/gwt-playground.git</connection>
         <developerConnection>scm:git:git@github.com:kospiotr/gwt-playground.git</developerConnection>
         <url>scm:git:git@github.com:kospiotr/gwt-playground.git</url>
-      <tag>gwt-playground-1.1</tag>
+      <tag>gwt-playground-1.0</tag>
   </scm>
     <issueManagement>
         <system>GitHub</system>
