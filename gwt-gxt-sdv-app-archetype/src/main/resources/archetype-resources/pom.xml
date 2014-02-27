@@ -10,7 +10,8 @@
     <packaging>war</packaging>
 
     <properties>
-        <gwt.version>2.5.1</gwt.version>
+        <gwt.version>2.6.0</gwt.version>
+        <gxt.version>3.1.0-beta</gxt.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -24,7 +25,13 @@
         <dependency>
             <groupId>com.sencha.gxt</groupId>
             <artifactId>gxt</artifactId>
-            <version>3.0.1</version>
+            <version>${gxt.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.sencha.gxt</groupId>
+            <artifactId>gxt-theme-neptune</artifactId>
+            <version>${gxt.version}</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
@@ -61,7 +68,7 @@
         <profile>
             <id>dev</id>
             <properties>
-                <gwt.module>com.github.kospiotr.app.App_dev</gwt.module>
+                <gwt.module>${package}.App_dev</gwt.module>
                 <gwt.draftCompile>true</gwt.draftCompile>
                 <gwt.style>PRETTY</gwt.style>
             </properties>

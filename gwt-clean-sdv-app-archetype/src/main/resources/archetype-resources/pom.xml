@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <gwt.version>2.5.1</gwt.version>
+        <gwt.version>2.6.1</gwt.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -55,7 +55,7 @@
         <profile>
             <id>dev</id>
             <properties>
-                <gwt.module>com.github.kospiotr.app.App_dev</gwt.module>
+                <gwt.module>${package}.App_dev</gwt.module>
                 <gwt.draftCompile>true</gwt.draftCompile>
                 <gwt.style>PRETTY</gwt.style>
             </properties>
